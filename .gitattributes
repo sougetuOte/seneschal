@@ -1,0 +1,2 @@
+# 作業コピーの改行を LF に固定する。Windows の core.autocrlf=true で clone しても、開発用のリポジトリと一字一句同じに保つため。
+* text=auto eol=lf

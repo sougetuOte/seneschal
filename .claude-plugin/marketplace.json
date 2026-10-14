@@ -1,0 +1,14 @@
+{
+  "name": "seneschal",
+  "description": "Seneschal の配布元。プラグインは seneschal の1つだけ。",
+  "owner": {
+    "name": "sougetuOte"
+  },
+  "plugins": [
+    {
+      "name": "seneschal",
+      "source": "./",
+      "description": "主人不在の間、委任された範囲でプロジェクトを切り盛りする薄いハーネス。Claude Code 専用。"
+    }
+  ]
+}
