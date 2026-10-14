@@ -1,6 +1,6 @@
 {
   "name": "seneschal",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "主人不在の間、委任された範囲でプロジェクトを切り盛りする薄いハーネス。条文3本（core/）と、入口 /seneschal:seneschal、検収の評価器 columba、主人が呼ぶ重い手法 magi と full-review（読み手 lens・gabriel）を配る。Claude Code 専用。",
   "author": {
     "name": "sougetuOte"
